@@ -1,2 +1,2 @@
 print("Hello World!")
-print ("VITÓRIA DO VASCO")
+print("VITÓRIA DO VASCO")
